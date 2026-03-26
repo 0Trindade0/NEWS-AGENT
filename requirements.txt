@@ -1,0 +1,13 @@
+# Integração com o Notion
+notion-client
+
+# Extração de Notícias e Imagens
+newspaper4k
+lxml
+
+# Busca de Conteúdo (Google News/RSS)
+feedparser
+
+# Utilitários e Segurança
+python-dotenv
+requests

@@ -1,13 +1,7 @@
-# Integração com o Notion
-notion-client
-
-# Extração de Notícias e Imagens
+google-genai
+google-api-core
 newspaper4k
-lxml
-
-# Busca de Conteúdo (Google News/RSS)
-feedparser
-
-# Utilitários e Segurança
+notion-client
 python-dotenv
-requests
+googlenewsdecoder
+feedparser
